@@ -4,7 +4,7 @@
 ## Photos/videos of the experiment
 https://youtube.com/shorts/cgR4GNOFogQ?feature=share
 
-## Explaining mㅛ project and Test findings 
+## Explaining my project and Test findings 
 "Note: For detailed charts, graphs and comprehensive test information, please refer to the HW7_result.docx file."
 
 ### Overview
@@ -16,7 +16,7 @@ This project explores distance estimation using Bluetooth Low Energy (BLE) signa
   - Where `txPower` is the calibrated signal strength at 1m
   - `n` is the path loss exponent (varies from 2 in free space to 4 in indoor environments)
 
-## Implementation Parameters
+### Implementation Parameters
 - `txPowerAt1m = -59` (Calibrated RSSI value at 1m distance)
 - `PATH_LOSS_EXPONENT = 2.0` (Set for free space conditions)
 - `CALIBRATION_FACTOR = 0.4` (Calibration assuming raw measurements needed 2.5x adjustment)
