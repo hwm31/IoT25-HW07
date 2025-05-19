@@ -4,6 +4,14 @@
 ## Photos/videos of the experiment
 https://youtube.com/shorts/cgR4GNOFogQ?feature=share
 
+### Client
+<img width="1206" alt="KakaoTalk_Photo_2025-05-19-23-59-52" src="https://github.com/user-attachments/assets/83103cd7-b130-403f-83df-a69fe8e919ce" />
+
+
+### Server
+![KakaoTalk_Photo_2025-05-19-23-58-03](https://github.com/user-attachments/assets/b24dfce3-4167-4079-ab05-f894a6f3f5a5)
+
+
 ## Explaining my project and Test findings 
 "Note: For detailed charts, graphs and comprehensive test information, please refer to the HW7_result.docx file."
 
