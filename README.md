@@ -50,7 +50,7 @@ Tests were conducted at distances of 0.5m, 1m, 2m, 3m, and 4m with the following
 - Weak signal strength (approximately -90dBm) at this distance
 - Noise during transmission likely affected readings, resulting in shorter distance calculations
 
-## Suggested Improvements
+### Suggested Improvements
 1. Calculate mean RSSI from larger sample sizes before distance estimation
 2. Implement dynamic PATH_LOSS_EXPONENT adjustments:
    - Increase the value for closer distances
